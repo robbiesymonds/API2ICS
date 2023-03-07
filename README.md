@@ -1,6 +1,6 @@
 # API2ICS
 
-Easily convert any API's calendar endpoints into iCalendar formatted files.
+Easily convert any calendar API into iCalendar formatted files.
 
 ## 🚀 Getting Started
 
