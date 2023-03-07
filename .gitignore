@@ -1,0 +1,7 @@
+# directories
+.vscode
+
+# files
+*.ics
+dev.ts
+.env
